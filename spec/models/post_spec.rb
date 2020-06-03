@@ -1,5 +1,5 @@
 require 'rails_helper'
 
-desscribe Post do
+describe Post do
 
 end
